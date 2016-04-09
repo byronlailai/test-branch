@@ -1,6 +1,7 @@
 root branch
 feature root
-feature root - add text 
+remove - feature root - add text 
+feature root - add text v2
 feature branch2
 feature branch2 add v1
 feature branch3
