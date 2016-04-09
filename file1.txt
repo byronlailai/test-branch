@@ -4,5 +4,6 @@ remove - feature root - add text
 feature root - add text v2
 feature branch2
 feature branch2 add v1
-feature branch3
+remove - feature branch3
 feature branch3 add
+feature branch3 add v2
