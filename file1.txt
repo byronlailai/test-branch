@@ -1,4 +1,5 @@
 root branch
 feature root
-feature branch2
+remove - feature branch2
 feature branch2 add v1
+feature branch2 add v2
