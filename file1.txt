@@ -1,3 +1,4 @@
 root branch
 feature root
 feature branch 1
+feature root - add text 
