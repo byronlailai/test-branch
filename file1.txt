@@ -3,3 +3,5 @@ feature root
 feature root - add text 
 feature branch2
 feature branch2 add v1
+feature branch3
+feature branch3 add
